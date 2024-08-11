@@ -6,6 +6,122 @@
 I am an extremely self-motivated individual who strives for near-perfection while I also am eagerly learning anything and everything that I can at all times. I self-align myself with legal moral and ethical values based on everything and everyone around me at the given time. In previous jobs I had missed work due to a company being held by a ransomware attack and I want to be able to assist in preventing that in the future. I came to this field looking for a way to challenge and test my brain, gaining knowledge along the way. Learning swiftly is what I am best at and giving up is never an option, in addition I am always outgoing and great with other people, so I am confident I will make a great addition to any team while keeping any organization safe. I am currently in the process of completing the Google Cybersecurity certificate course, and plan to take the CompTIA Sec+ certificate after completion of the Google bootcamp.
 
 - [Security Audit](https://docs.google.com/document/d/1--8AN_7k65IdReNIPuxEywx9nyNS41BHqZCAtRCHXnc/edit?usp=sharing)
+#### **Security Audit**
+
+Controls and compliance checklist
+
+Controls assessment checklist
+
+  Yes
+    No
+Control
+	•	￼
+	•	￼
+Least Privilege
+	•	￼
+	•	￼
+Disaster recovery plans
+	•	￼
+	•	￼
+Password policies
+	•	￼
+	•	￼
+Separation of duties
+	•	￼
+	•	￼
+Firewall
+	•	￼
+	•	￼
+Intrusion detection system (IDS)
+	•	￼
+	•	￼
+Backups
+	•	￼
+	•	￼
+Antivirus software
+	•	￼
+	•	￼
+Manual monitoring, maintenance, and intervention for legacy systems
+	•	￼
+	•	￼
+Encryption
+	•	￼
+	•	￼
+Password management system
+	•	￼
+	•	￼
+Locks (offices, storefront, warehouse)
+	•	￼
+	•	￼
+Closed-circuit television (CCTV) surveillance
+	•	￼
+	•	￼
+Fire detection/prevention (fire alarm, sprinkler system, etc.)
+
+
+
+
+
+Compliance checklist
+
+Payment Card Industry Data Security Standard (PCI DSS)
+Yes
+    No
+Best practice
+	•	￼
+	•	￼
+Only authorized users have access to customers’ credit card information. 
+	•	￼
+	•	￼
+Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment.
+	•	￼
+	•	￼
+Implement data encryption procedures to better secure credit card transaction touchpoints and data. 
+	•	￼
+	•	￼
+Adopt secure password management policies.
+
+
+General Data Protection Regulation (GDPR)
+Yes
+    No
+Best practice
+	•	￼
+	•	￼
+E.U. customers’ data is kept private/secured.
+	•	￼
+	•	￼
+There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.
+	•	￼
+	•	￼
+Ensure data is properly classified and inventoried.
+	•	￼
+	•	￼
+Enforce privacy policies, procedures, and processes to properly document and maintain data.
+
+
+System and Organizations Controls (SOC type 1, SOC type 2) 
+Yes
+    No
+Best practice
+	•	￼
+	•	￼
+User access policies are established.
+	•	￼
+	•	￼
+Sensitive data (PII/SPII) is confidential/private.
+	•	￼
+	•	￼
+Data integrity ensures the data is consistent, complete, accurate, and has been validated.
+	•	￼
+	•	￼
+Data is available to individuals authorized to access it.
+
+
+
+Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system. 
+To address gaps in compliance, Botium Toys needs to implement controls such as Least Privilege, separation of duties, and encryption. The company also needs to properly classify assets, to identify additional controls that may need to be implemented to improve their security posture and better protect sensitive information. 
+
 - [Network Traffic Analysis](https://docs.google.com/document/d/1aND0F9J5XwUGxfrDz9UfS0TxVW7305Y9hGbaijHgL7Y/edit?usp=sharing)
 - [Linux Permissions](https://docs.google.com/document/d/1t4r-j--eEIrwp9KtaH_X-eKLHnlVjjtJSPAB20GP6L8/edit?usp=sharing&resourcekey=0-emmdCRhUVGYDYtC7Xb1X1A)
 - [SQL Filtering](https://docs.google.com/document/d/1bxjSJ50zx9wP-BKs4JdyLwRFMx0DUYE5jvDzZav3OGg/edit?usp=sharing&resourcekey=0-fBeATFdF5T1bp7PBZvAfpA)
