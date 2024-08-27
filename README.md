@@ -1,11 +1,8 @@
 # **Jacob Puthoff's Cybersecurity Portfolio**
 ## **Projects**
-- [Professional statement](https://docs.google.com/document/d/1uNCtmP9PDCE40Cu1q4p9vj1T9Fx8m4uMRCiBDMg8Jzk/edit?usp=sharing)
+Within this Repo I have 9 different folders containing information and examples of hands-on experience I have gained through the google cybersecurity certificate course. Within each of the folders will be a hyperlink to open a Google Document with screenshots of my work. Within the files in each folder will be an explanation of what I am doing and my comprehension of each tool. 
 
-### **Professional statement**
-I am an extremely self-motivated individual who strives for near-perfection while I also am eagerly learning anything and everything that I can at all times. I self-align myself with legal moral and ethical values based on everything and everyone around me at the given time. In previous jobs I had missed work due to a company being held by a ransomware attack and I want to be able to assist in preventing that in the future. I came to this field looking for a way to challenge and test my brain, gaining knowledge along the way. Learning swiftly is what I am best at and giving up is never an option, in addition I am always outgoing and great with other people, so I am confident I will make a great addition to any team while keeping any organization safe. I am currently in the process of completing the Google Cybersecurity certificate course, and plan to take the CompTIA Sec+ certificate after completion of the Google bootcamp.
 
-- [Security Audit](https://docs.google.com/document/d/1--8AN_7k65IdReNIPuxEywx9nyNS41BHqZCAtRCHXnc/edit?usp=sharing)
 #### **Security Audit**
 
 | test | 1 |
