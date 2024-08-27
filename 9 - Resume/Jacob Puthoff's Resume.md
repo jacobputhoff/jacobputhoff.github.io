@@ -1,6 +1,7 @@
 # **Resume**
 
 Jacobputhoff@icloud.com
+
 Cell: 419-771-9513
 
 ## **Objectives**
