@@ -1,5 +1,7 @@
 # **Applying NIST CSF to analyze an incident**
 
+[My Network Traffic Analysis](https://docs.google.com/document/d/1aND0F9J5XwUGxfrDz9UfS0TxVW7305Y9hGbaijHgL7Y/edit?usp=sharing)
+
 **Scenario**
 
 You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
@@ -30,4 +32,4 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 - Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident
 
-[My Network Traffic Analysis](https://docs.google.com/document/d/1aND0F9J5XwUGxfrDz9UfS0TxVW7305Y9hGbaijHgL7Y/edit?usp=sharing)
+
