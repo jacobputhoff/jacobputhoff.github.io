@@ -42,9 +42,9 @@ Celina high school
 
 ###### **References**
 
-- Craig swarts:currently class A cdl driver for Cheeseman transport (937) 214-6920
+- Craig swarts: Class A cdl driver for Cheeseman transport (937) 214-6920
 
-- Mike Jaeger:Supervisor for American Trim in Wapakoneta (419) 953-6127
+- Mike Jaeger: Supervisor for American Trim in Wapakoneta (419) 953-6127
 
 
 
