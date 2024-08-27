@@ -22,4 +22,4 @@ With these in mind I quickly realized that not only am I prepared for this job, 
 
 *Directory*
 
-[Professional Statement](Professional statement/Professional statement.md)
+[Professional Statement](Professionalstatement/Professionalstatement.md)
