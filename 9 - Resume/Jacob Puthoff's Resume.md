@@ -16,19 +16,19 @@ I am an aspiring cybersecurity analyst attempting to break into the ever changin
 
 #### **Experience** 
 
-Cheeseman transport
+**Cheeseman transport**
   
   10/22/2020-present
     Class A cdl local truck driver. Manage DOT regulated logs while performing quality delivery services with interpersonal skill.
 
-Reynolds And Reynolds 
+**Reynolds And Reynolds**
   
   6/18-10/16/2020
     Rotary press operator. Set jobs up to print ink onto dealership paper forms.
   5/17-6/18
     Rotary catcher. Works alongside press operator to ship boxes of dealership forms to the correct address.
 
-Pizza Hut
+**Pizza Hut**
   
   9/15-5/17
   - Driver. Drove pizzas to addresses of customers
