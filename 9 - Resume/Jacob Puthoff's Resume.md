@@ -48,7 +48,7 @@ Google Cybersecurity certificate
 Celina high school
 2017, 3.1 cumulative GPA. Score of 24 average on ACT with 27 for science and 25 for math.
 
-###### **References**
+##### **References**
 
 - Craig swarts: Class A cdl driver for Cheeseman transport (937) 214-6920
 
