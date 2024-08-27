@@ -19,7 +19,3 @@ There are times when I get in a rush, we all do it. However, part of my job is v
 With deliveries comes delivery appointments. We strive to make all appointments on time to ensure our customers can rely on me getting there when they expect the freight to be there. This shows the availability in freight as they know when they order through us I will be there when they're expecting it to make sure they meet their quotas and own goals.
 
 With these in mind I quickly realized that not only am I prepared for this job, I am perfect for it as I love the field and Tech work and I have been practicing concepts used in the industry for years and I am hoping for years to come. 
-
-*Directory*
-
-[Professional Statement](Professionalstatement/Professionalstatement.md)
