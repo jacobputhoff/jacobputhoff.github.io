@@ -20,17 +20,17 @@ I am an aspiring cybersecurity analyst attempting to break into the ever changin
   
   10/22/2020-present
     
-    Class A cdl local truck driver. Manage DOT regulated logs while performing quality delivery services with interpersonal skill.
+  Class A cdl local truck driver. Manage DOT regulated logs while performing quality delivery services with interpersonal skill.
 
 **Reynolds And Reynolds**
   
   6/18-10/16/2020
     
-    Rotary press operator. Set jobs up to print ink onto dealership paper forms.
+  Rotary press operator. Set jobs up to print ink onto dealership paper forms.
   
   5/17-6/18
     
-    Rotary catcher. Works alongside press operator to ship boxes of dealership forms to the correct address.
+  Rotary catcher. Works alongside press operator to ship boxes of dealership forms to the correct address.
 
 **Pizza Hut**
   
