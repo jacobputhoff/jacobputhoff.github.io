@@ -20,5 +20,4 @@ With deliveries comes delivery appointments. We strive to make all appointments 
 
 With these in mind I quickly realized that not only am I prepared for this job, I am perfect for it as I love the field and Tech work and I have been practicing concepts used in the industry for years and I am hoping for years to come. 
 
-  - [Professional statement](jacobputhoff.github.io/1 - Professional statement
-/Professional statement.md)
+  - [Professional statement](https://github.com/jacobputhoff/jacobputhoff.github.io/blob/main/1%20-%20Professional%20statement/Professional%20statement.md)
