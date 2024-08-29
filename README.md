@@ -20,5 +20,5 @@ With deliveries comes delivery appointments. We strive to make all appointments 
 
 With these in mind I quickly realized that not only am I prepared for this job, I am perfect for it as I love the field and Tech work and I have been practicing concepts used in the industry for years and I am hoping for years to come. 
 
-  - [Professional statement](./Professional_statement.md)
+  - [Professional statement](/Professional_statement.md)
   - [Security Audit](Security Audit.md)
